@@ -3,6 +3,7 @@
         {
             "Id": "aaa",
             "Title": "Template Title",
+            "GeneralLocation":  "Ribeira",
             "Tags": [
                 "Indoor",
                 "Sport",
