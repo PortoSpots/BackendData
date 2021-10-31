@@ -1,19 +1,17 @@
-{
-    "Spots": [
-        {
-            "Id": "aaa",
-            "Title": "Template Title",
-            "GeneralLocation":  "Ribeira",
-            "Tags": [
-                "Indoor",
-                "Sport",
-                "Team"
-            ],
-            "ImagesUrls": [
-                "https://images.unsplash.com/photo-1632813101586-c6243f84a800?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
-                "https://images.unsplash.com/photo-1632814501477-7f3a88232a17?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1172&q=80",
-                "https://images.unsplash.com/photo-1632767576183-8a22609cc9e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
-            ]
-        }
-    ]
-}
+[
+    {
+        "Id": "aaa",
+        "Title": "Template Title",
+        "GeneralLocation": "Ribeira",
+        "Tags": [
+            "Indoor",
+            "Sport",
+            "Team"
+        ],
+        "ImagesUrls": [
+            "https://images.unsplash.com/photo-1632813101586-c6243f84a800?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1632814501477-7f3a88232a17?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1172&q=80",
+            "https://images.unsplash.com/photo-1632767576183-8a22609cc9e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+        ]
+    }
+]
