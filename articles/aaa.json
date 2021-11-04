@@ -9,25 +9,25 @@
         "MapsPlaceId": "ifflel+tower,Paris+France",
         "Schedule": {
             "WeekDay": {
-                "MorningIn": 20,
-                "MorningOut": 20,
-                "AfternoonIn": 20,
+                "MorningIn": 8.30,
+                "MorningOut": 12.30,
+                "AfternoonIn": 14,
                 "AfternoonOut": 20
             },
             "OffDay": {
-                "MorningIn": 20,
-                "MorningOut": 20,
-                "AfternoonIn": 20,
-                "AfternoonOut": 20
+                "MorningIn": 9,
+                "MorningOut": 13,
+                "AfternoonIn": 13,
+                "AfternoonOut": 23.45
             }
         },
         "SpecialDays": [
             {
                 "DayName": "Monday",
-                "MorningIn": 20,
-                "MorningOut": 20,
-                "AfternoonIn": 20,
-                "AfternoonOut": 20
+                "MorningIn": -1,
+                "MorningOut": -1,
+                "AfternoonIn": 15,
+                "AfternoonOut": 23.45
             }
         ]
     },
