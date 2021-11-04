@@ -23,7 +23,7 @@
         },
         "SpecialDays": [
             {
-                "DayName": "Monday",
+                "DayName": "Mon",
                 "MorningIn": -1,
                 "MorningOut": -1,
                 "AfternoonIn": 15,
